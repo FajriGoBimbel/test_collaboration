@@ -2,7 +2,9 @@ import React from 'react'
 
 const TestCollab = () => {
   return (
-    <div>TestCollab</div>
+    <div>
+      <div>Test Pull</div>
+    </div>
   )
 }
 
