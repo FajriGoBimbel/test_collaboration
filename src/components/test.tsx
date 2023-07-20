@@ -3,7 +3,7 @@ import React from 'react'
 const TestCollab = () => {
   return (
     <div>
-      <div>Test Branch1</div>
+      <div>Test Branch1 Update</div>
     </div>
   )
 }
